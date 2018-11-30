@@ -1,0 +1,17 @@
+{
+    "name": "romain-d/facetwp-post-status",
+    "description": "Add filtering by Post Status for FacetWP",
+    "type": "wordpress-plugin",
+    "license": "GPL2+",
+    "keywords": ["WordPress", "FacetWP", "status", "post-status"],
+    "authors": [
+        {
+            "name": "Romain DORR",
+            "homepage": "https://github.com/romain-d",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/romain-d/facetwp-post-status",
+        "issues": "https://github.com/romain-d/facetwp-post-status/issues"
+    }
