@@ -2,7 +2,7 @@
 
 ## Description
 
-This plugin add post status sources for your facets.
+This plugin add post status source for your facets.
 
 ## Installation
 
